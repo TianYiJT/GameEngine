@@ -1,0 +1,85 @@
+﻿  Main.cpp
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\CMGEMathEngine.h(194): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\CMGEMathEngine.h(196): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\CMGEMathEngine.h(303): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\CMGEMathEngine.h(305): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\CMGEStringEngine.h(20): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\CMGEStringEngine.h(97): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\ResourceLoader.h(99): warning C4101: “attributeType”: 未引用的局部变量
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\ResourceLoader.h(233): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\ResourceLoader.h(234): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\ResourceLoader.h(235): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\ResourceLoader.h(236): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\ResourceLoader.h(243): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\ResourceLoader.h(244): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\ResourceLoader.h(245): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\ResourceLoader.h(246): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\ResourceLoader.h(262): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\ResourceLoader.h(263): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\ResourceLoader.h(264): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\ResourceLoader.h(265): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\ResourceLoader.h(271): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\ResourceLoader.h(272): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\ResourceLoader.h(273): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\ResourceLoader.h(274): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\ResourceLoader.h(297): warning C4244: “=”: 从“fbxsdk::FbxDouble”转换到“float”，可能丢失数据
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\ResourceLoader.h(298): warning C4244: “=”: 从“fbxsdk::FbxDouble”转换到“float”，可能丢失数据
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\ResourceLoader.h(305): warning C4244: “=”: 从“fbxsdk::FbxDouble”转换到“float”，可能丢失数据
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\ResourceLoader.h(306): warning C4244: “=”: 从“fbxsdk::FbxDouble”转换到“float”，可能丢失数据
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\ResourceLoader.h(323): warning C4244: “=”: 从“fbxsdk::FbxDouble”转换到“float”，可能丢失数据
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\ResourceLoader.h(324): warning C4244: “=”: 从“fbxsdk::FbxDouble”转换到“float”，可能丢失数据
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\ResourceLoader.h(348): warning C4244: “=”: 从“fbxsdk::FbxDouble”转换到“float”，可能丢失数据
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\ResourceLoader.h(349): warning C4244: “=”: 从“fbxsdk::FbxDouble”转换到“float”，可能丢失数据
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\ResourceLoader.h(350): warning C4244: “=”: 从“fbxsdk::FbxDouble”转换到“float”，可能丢失数据
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\ResourceLoader.h(357): warning C4244: “=”: 从“fbxsdk::FbxDouble”转换到“float”，可能丢失数据
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\ResourceLoader.h(358): warning C4244: “=”: 从“fbxsdk::FbxDouble”转换到“float”，可能丢失数据
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\ResourceLoader.h(359): warning C4244: “=”: 从“fbxsdk::FbxDouble”转换到“float”，可能丢失数据
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\ResourceLoader.h(375): warning C4244: “=”: 从“fbxsdk::FbxDouble”转换到“float”，可能丢失数据
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\ResourceLoader.h(376): warning C4244: “=”: 从“fbxsdk::FbxDouble”转换到“float”，可能丢失数据
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\ResourceLoader.h(377): warning C4244: “=”: 从“fbxsdk::FbxDouble”转换到“float”，可能丢失数据
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\ResourceLoader.h(384): warning C4244: “=”: 从“fbxsdk::FbxDouble”转换到“float”，可能丢失数据
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\ResourceLoader.h(385): warning C4244: “=”: 从“fbxsdk::FbxDouble”转换到“float”，可能丢失数据
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\ResourceLoader.h(386): warning C4244: “=”: 从“fbxsdk::FbxDouble”转换到“float”，可能丢失数据
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\ResourceLoader.h(411): warning C4244: “=”: 从“fbxsdk::FbxDouble”转换到“float”，可能丢失数据
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\ResourceLoader.h(412): warning C4244: “=”: 从“fbxsdk::FbxDouble”转换到“float”，可能丢失数据
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\ResourceLoader.h(413): warning C4244: “=”: 从“fbxsdk::FbxDouble”转换到“float”，可能丢失数据
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\ResourceLoader.h(420): warning C4244: “=”: 从“fbxsdk::FbxDouble”转换到“float”，可能丢失数据
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\ResourceLoader.h(421): warning C4244: “=”: 从“fbxsdk::FbxDouble”转换到“float”，可能丢失数据
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\ResourceLoader.h(422): warning C4244: “=”: 从“fbxsdk::FbxDouble”转换到“float”，可能丢失数据
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\ResourceLoader.h(438): warning C4244: “=”: 从“fbxsdk::FbxDouble”转换到“float”，可能丢失数据
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\ResourceLoader.h(439): warning C4244: “=”: 从“fbxsdk::FbxDouble”转换到“float”，可能丢失数据
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\ResourceLoader.h(440): warning C4244: “=”: 从“fbxsdk::FbxDouble”转换到“float”，可能丢失数据
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\ResourceLoader.h(447): warning C4244: “=”: 从“fbxsdk::FbxDouble”转换到“float”，可能丢失数据
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\ResourceLoader.h(448): warning C4244: “=”: 从“fbxsdk::FbxDouble”转换到“float”，可能丢失数据
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\ResourceLoader.h(449): warning C4244: “=”: 从“fbxsdk::FbxDouble”转换到“float”，可能丢失数据
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\Material.h(112): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\Component.h(46): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\GameObject.h(41): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\GameObject.h(109): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\GameObject.h(117): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\GameObject.h(132): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\GameObject.h(144): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\Camera.h(48): warning C4244: “return”: 从“float”转换到“int”，可能丢失数据
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\SkyBoxRenderer.h(26): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\MeshRenderer.h(22): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\PostProcessRenderer.h(24): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\BloomRenderer.h(22): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\BloomRenderer.h(55): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\BloomRenderer.h(66): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\BloomRenderer.h(72): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\VolumetricLightRenderer.h(25): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\VolumetricLightRenderer.h(67): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\App.h(22): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\Sample_Exp4.h(20): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\Sample_Exp4.h(21): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\ResourceManager.h(80): warning C4018: “<”: 有符号/无符号不匹配
+  c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\ResourceManager.h(78): note: 编译类 模板 成员函数“CMGERenderEngine::Mesh *ResourceManager<CMGERenderEngine::Mesh>::getData(std::string)”时
+  c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\SkyBoxRenderer.h(35): note: 参见对正在编译的函数 模板 实例化“CMGERenderEngine::Mesh *ResourceManager<CMGERenderEngine::Mesh>::getData(std::string)”的引用
+  c:\users\tao\documents\visual studio 2015\projects\cmge\cmge\Mesh.h(51): note: 参见对正在编译的类 模板 实例化“ResourceManager<CMGERenderEngine::Mesh>”的引用
+  正在生成代码
+  475 of 3433 functions (13.8%) were compiled, the rest were copied from previous compilation.
+    395 functions were new in current compilation
+    340 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  CMGE.vcxproj -> C:\Users\tao\documents\visual studio 2015\Projects\CMGE\Release\CMGE.exe
+  CMGE.vcxproj -> C:\Users\tao\documents\visual studio 2015\Projects\CMGE\Release\CMGE.pdb (Full PDB)

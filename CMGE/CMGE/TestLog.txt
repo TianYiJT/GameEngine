@@ -1,0 +1,16 @@
+2018.03.10
+
+CMGEStringEngine 通过测试
+
+CMGEMathEngine中 Vector2 和Vector3 和Vector4通过测试
+
+Mathfunc中 random随机均匀性不够强
+
+蒙特卡洛积分法 由于random函数没有获得正确的结果
+
+2018.03.11
+
+测试了矩阵和变换
+
+2018.03.14
+集成测试完成， 模型加载，法线、摄像机及模型变换正确，贴图或UV异常

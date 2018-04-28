@@ -1,0 +1,55 @@
+
+
+2018.03.09
+idea:
+应该在Shader编译系统下增加函数库的方式
+使用#include XXX可以引用
+应该在工具中增加一种可以加载excel的类，避免现阶段一些部分的硬编码
+应该建立一个ResoureManager的模板类，使用单例模式,观察者模式。
+work:
+写了MeshRenderer和Renderer
+2018.03.10
+idea:
+应该在Mesh中加入LOD机制
+work:
+写了SceneManager 并调整了 Resource方面的架构
+进行了 String引擎和Math引擎的测试
+
+2018.03.11
+work：
+测试了矩阵和变换
+补充了Renderer中对渲染参数的设置
+GameObject和SceneManager中对enable的使用
+
+2018.03.13
+fbxsdk 测试ok 组件 GameObject SceneManager OK
+
+2018.03.14
+idea:
+新增一个InputSystem
+
+2018.03.15
+主贴图+法线贴图加基本漫反射完成。
+逆矩阵有些奇怪
+高光有些奇怪
+可以把这些问题先放一放？？
+
+2018.03.16
+idea:
+三缓冲
+work:
+InputSystem
+
+2018.03.17:
+work:
+完成了输入系统
+
+2018.03.18:
+work:
+测试了输入系统，自定义脚本，reshape等函数。
+
+2018.03.21
+skyboxRenderer 开发完成。
+
+2018.03.24
+完成了 后处理 深度贴图的开发支持。

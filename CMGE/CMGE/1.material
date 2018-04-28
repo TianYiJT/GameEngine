@@ -1,0 +1,4 @@
+Shader Default
+Texture2D mTex123 Default
+Vector3 LightDir 1.0 2.0 3.0
+Vector4 MainColor 2.0 3.0 1.0 4.0
